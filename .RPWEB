@@ -1,0 +1,3 @@
+URL.PAGE=pg("/", "/index.rpweb")
+URL.PAGE=pg("/web", "/web/index.rpweb")
+URL.PAGE=pg("/bookmarklet", "/bookmark/index.rpweb")
