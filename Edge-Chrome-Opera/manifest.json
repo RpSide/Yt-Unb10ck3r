@@ -1,0 +1,26 @@
+{
+  "name": "Replacord Yt Unb10ck3r",
+  "description": "Unblock Youtube Videos Anywhere",
+  "version": "4.0.0",
+  "manifest_version": 2,
+"action": {
+  "default_popup": "popup.html",
+  "default_icon": {
+    "16": "imgs/YtUnblock-16.png",
+    "32": "imgs/YtUnblock-32.png",
+    "48": "imgs/YtUnblock-48.png",
+    "128": "imgs/YtUnblock-128.png"
+  }
+},
+ "icons": {
+    "16": "imgs/YtUnblock-16.png",
+    "32": "imgs/YtUnblock-32.png",
+    "48": "imgs/YtUnblock-48.png",
+    "128": "imgs/YtUnblock-128.png"
+  },
+  "browser_action": {
+    "default_icon": "imgs/YtUnblock-16.png",
+    "default_popup": "popup.html"
+},
+    "options_page": "options.html"
+}
